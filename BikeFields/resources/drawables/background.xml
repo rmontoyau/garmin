@@ -1,0 +1,4 @@
+<drawable-list id="background" x="0" y="0" foreground="Gfx.COLOR_BLUE">
+    <shape type="rectangle" x="66" y="0" width="2" height="fill" border_color= "Gfx.COLOR_DK_GRAY"/>
+    <shape type="rectangle" x="133" y="0" width="2" height="fill" border_color= "Gfx.COLOR_DK_GRAY"/>
+</drawable-list>

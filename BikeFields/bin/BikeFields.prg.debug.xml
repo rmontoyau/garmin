@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="8" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="9" pc="268435468" symbol="initialize"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="13" pc="268435494" symbol="clockTime"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="14" pc="268435517" symbol="clockTime"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="15" pc="268435579" symbol="clockTime"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="19" pc="268435657" symbol="speedConverter"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="20" pc="268435664" symbol="speedConverter"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="21" pc="268435671" symbol="speedConverter"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="23" pc="268435684" symbol="speedConverter"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="27" pc="268435699" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="28" pc="268435706" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="29" pc="268435713" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="30" pc="268435720" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="31" pc="268435727" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="32" pc="268435749" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="33" pc="268435774" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="34" pc="268435790" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="35" pc="268435809" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="36" pc="268435819" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="38" pc="268435835" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="39" pc="268435839" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="40" pc="268435895" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="41" pc="268435951" symbol="milisecondsToHour"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="45" pc="268436013" symbol="getSpeed"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="49" pc="268436042" symbol="getRestingHeartRate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="50" pc="268436049" symbol="getRestingHeartRate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="51" pc="268436068" symbol="getRestingHeartRate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="54" pc="268436117" symbol="getRestingHeartRate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="58" pc="268436123" symbol="getBPM"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="59" pc="268436130" symbol="getBPM"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="60" pc="268436149" symbol="getBPM"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\Utils.mc" lineNum="63" pc="268436168" symbol="getBPM"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="7" pc="268436174" symbol="initialize"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="18" pc="268436195" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="20" pc="268436214" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="23" pc="268436257" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="24" pc="268436281" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="25" pc="268436303" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="26" pc="268436327" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="27" pc="268436349" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="29" pc="268436401" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="30" pc="268436425" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="31" pc="268436447" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="32" pc="268436471" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="33" pc="268436493" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="35" pc="268436545" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="36" pc="268436569" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="37" pc="268436591" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="38" pc="268436615" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="39" pc="268436637" symbol="onLayout"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="49" pc="268436692" symbol="compute"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="51" pc="268436724" symbol="compute"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="53" pc="268436749" symbol="compute"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="55" pc="268436774" symbol="compute"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="62" pc="268436802" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="65" pc="268436845" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="66" pc="268436869" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="67" pc="268436896" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="69" pc="268436923" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="71" pc="268436947" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="75" pc="268437003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="76" pc="268437027" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="77" pc="268437054" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="79" pc="268437081" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="81" pc="268437105" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="85" pc="268437161" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="86" pc="268437185" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="87" pc="268437212" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="89" pc="268437239" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="91" pc="268437263" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsView.mc" lineNum="93" pc="268437319" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsBackground.mc" lineNum="10" pc="268437342" symbol="initialize"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsBackground.mc" lineNum="14" pc="268437363" symbol="initialize"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsBackground.mc" lineNum="18" pc="268437386" symbol="setColor"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsBackground.mc" lineNum="22" pc="268437399" symbol="draw"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsBackground.mc" lineNum="23" pc="268437431" symbol="draw"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsApp.mc" lineNum="6" pc="268437446" symbol="initialize"/>
+<entry filename="C:\\Users\\Rudy\\Documents\\Proyectos\\Garmin\\proyectos\\BikeFields\\source\\BikeFieldsApp.mc" lineNum="19" pc="268437473" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268437513" symbol="initialize"/>
+<entry filename="Rez" lineNum="24" pc="268437540" symbol="draw"/>
+<entry filename="Rez" lineNum="25" pc="268437547" symbol="draw"/>
+<entry filename="Rez" lineNum="26" pc="268437554" symbol="draw"/>
+<entry filename="Rez" lineNum="27" pc="268437567" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268437580" symbol="draw"/>
+<entry filename="Rez" lineNum="32" pc="268437605" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="34" pc="268437641" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="36" pc="268437736" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="50" pc="268437834" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="51" pc="268437859" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="52" pc="268437886" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="54" pc="268437902" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="55" pc="268437938" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="56" pc="268437949" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="58" pc="268437965" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="59" pc="268437979" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="60" pc="268438089" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="61" pc="268438104" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="62" pc="268438150" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="63" pc="268438164" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="64" pc="268438274" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="65" pc="268438289" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="66" pc="268438335" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="67" pc="268438349" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="68" pc="268438446" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="69" pc="268438461" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="70" pc="268438513" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="71" pc="268438559" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="72" pc="268438573" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="73" pc="268438670" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="74" pc="268438685" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="75" pc="268438737" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="76" pc="268438783" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="77" pc="268438797" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="78" pc="268438907" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="79" pc="268438922" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="80" pc="268438968" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="81" pc="268438982" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="82" pc="268439092" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="83" pc="268439107" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="84" pc="268439153" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="22" symbol="utils"/>
+<entry id="30" method="true" symbol="getSpeed"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="27" method="true" symbol="clockTime"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="28" method="true" symbol="speedConverter"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="19" symbol="field1Label"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="32" method="true" symbol="getBPM"/>
+<entry id="8" object="true" symbol="Utils"/>
+<entry id="17" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="16" method="true" symbol="drawComplex"/>
+<entry id="8389130" symbol="mColor"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry field="true" id="20" symbol="field3Label"/>
+<entry id="8388647" module="true" symbol="UserProfile"/>
+<entry id="10" object="true" symbol="Background"/>
+<entry field="true" id="14" symbol="LauncherIcon"/>
+<entry id="9" object="true" symbol="BikeFieldsView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="29" method="true" symbol="milisecondsToHour"/>
+<entry id="11" object="true" symbol="BikeFieldsApp"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry field="true" id="18" symbol="field2Label"/>
+<entry id="15" object="true" symbol="background"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="8388936" method="true" symbol="info"/>
+<entry id="25" symbol="field3"/>
+<entry id="24" symbol="field2"/>
+<entry id="23" symbol="field1"/>
+<entry id="31" method="true" symbol="getRestingHeartRate"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="26" symbol="user"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435654" name="hour" stackId="1" startPc="268435494"/>
+<entry endPc="268435696" name="curSpeed" stackId="2" startPc="268435657"/>
+<entry endPc="268436010" name="m" stackId="3" startPc="268435699"/>
+<entry endPc="268436010" name="hour" stackId="5" startPc="268435699"/>
+<entry endPc="268436010" name="min" stackId="6" startPc="268435699"/>
+<entry endPc="268436010" name="sec" stackId="7" startPc="268435699"/>
+<entry endPc="268436010" name="s" stackId="4" startPc="268435699"/>
+<entry endPc="268436010" name="h" stackId="2" startPc="268435699"/>
+<entry endPc="268436120" name="hearRate" stackId="1" startPc="268436042"/>
+<entry endPc="268436171" name="hearRate" stackId="1" startPc="268436123"/>
+<entry endPc="268436689" name="value2View" stackId="6" startPc="268436195"/>
+<entry endPc="268436689" name="label2View" stackId="5" startPc="268436195"/>
+<entry endPc="268436689" name="value1View" stackId="4" startPc="268436195"/>
+<entry endPc="268436689" name="label1View" stackId="3" startPc="268436195"/>
+<entry endPc="268436689" name="value3View" stackId="8" startPc="268436195"/>
+<entry endPc="268436689" name="label3View" stackId="7" startPc="268436195"/>
+<entry endPc="268436689" name="obscurityFlags" stackId="2" startPc="268436195"/>
+<entry endPc="268437339" name="field2Value" stackId="3" startPc="268436802"/>
+<entry endPc="268437339" name="field1Value" stackId="2" startPc="268436802"/>
+<entry endPc="268437339" name="field3Value" stackId="4" startPc="268436802"/>
+<entry endPc="268437383" name="dictionary" stackId="1" startPc="268437342"/>
+<entry endPc="268437602" name="pWidth" stackId="4" startPc="268437540"/>
+<entry endPc="268437602" name="pY" stackId="3" startPc="268437540"/>
+<entry endPc="268437602" name="pX" stackId="2" startPc="268437540"/>
+<entry endPc="268437602" name="pHeight" stackId="5" startPc="268437540"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field1Value" stackId="8" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field1Label_fontHeight" stackId="6" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field3Value_fontHeight" stackId="21" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field2Value" stackId="14" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field2Label_fontHeight" stackId="12" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_custom_drawable_R0WNYESOYNUSCH2M07TM" stackId="2" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field3Value" stackId="20" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field3Label_fontHeight" stackId="18" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field1Label_font" stackId="4" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field1Value_fontHeight" stackId="9" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field2Value_fontHeight" stackId="15" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field1Value_font" stackId="7" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field2Label_font" stackId="10" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field2Value_font" stackId="13" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field3Label_font" stackId="16" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field1Label" stackId="5" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_drawable_reference_background" stackId="3" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field2Label" stackId="11" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field3Value_font" stackId="19" startPc="268437834"/>
+<entry endPc="268439240" name="rez_cmp_local_label_field3Label" stackId="17" startPc="268437834"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="Utils">
+<param id="dataInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="clockTime" parent="Utils">
+<documentation/>
+</functionEntry>
+<functionEntry name="speedConverter" parent="Utils">
+<param id="speed"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="milisecondsToHour" parent="Utils">
+<param id="miliseconds"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getSpeed" parent="Utils">
+<documentation/>
+</functionEntry>
+<functionEntry name="getRestingHeartRate" parent="Utils">
+<documentation/>
+</functionEntry>
+<functionEntry name="getBPM" parent="Utils">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BikeFieldsView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="BikeFieldsView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Set your layout here. Anytime the size of obscurity of<br/> the draw context is changed this will be called.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="compute" parent="BikeFieldsView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> The given info object contains all the current workout<br/> information. Calculate a value and save it locally in this method.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="BikeFieldsView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Display the value you computed here. This will be called<br/> once a second when the data field is visible.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="setColor" parent="Background">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BikeFieldsApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="BikeFieldsApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="BikeFieldsApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="BikeFieldsApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="background">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

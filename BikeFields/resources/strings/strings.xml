@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">BikeFields</string>
+    <string id="field1Label">Speed</string>
+    <string id="field2Label">PPM</string>
+    <string id="field3Label">%PPM</string>
+</strings>
